@@ -1,2 +1,5 @@
 # Cross-Site-Request-forgery-protection-in-web-applications-via-Synchroniser-Token-Patterns
-This example shows how to implement a Client side and Server Side to face XSS attacks. (Using CSRF token method - Synchronized way) 
+This is an example showing how to implement a Client side and Server Side to face XSS attacks using CSRF token method (Synchronized way) 
+* Username : pramesh
+* Password : pramesh123
+* Make sure to check the remember me Checkbox
