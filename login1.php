@@ -36,7 +36,7 @@
 			<label>Password</label>
 			<input type="password" name="user_pswd">
 		</div>
-        <div class="spacing"><input type="checkbox" name="checkboxes" id="checkboxes-0" value="1"><small> Remember me</small></div>
+        <div class="spacing"><input type="checkbox" name="checkboxes" id="checkboxes-0" value="1"><small> Check me</small></div>
 		<div class="spacing"><input type="hidden" id="TokenCS"  name="CSR" /></div>
 		<div class="input-group">
 			<button type="submit" class="btn" name="sbmt">Login</button>
